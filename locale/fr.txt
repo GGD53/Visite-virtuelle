@@ -1,0 +1,106 @@
+#: locale=fr
+
+## Action
+
+### URL
+LinkBehaviour_C66A01ED_E794_2258_41EC_CF20B4234F94.source = https://drive.google.com/file/d/17b8kFQQtEQcjagCxF6JoyHeiIUqUnyAN/view?usp=sharing
+LinkBehaviour_61E9140C_6E0D_D13F_41D7_892B375213AA.source = https://drive.google.com/file/d/1dXzfwsTaA8l5R2q1GH_UofKIbUv6dXQB/view?usp=sharing
+
+## Habillage
+
+### Image
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_fr.png
+Image_B1DBF2C0_BF8A_CEB0_41C3_86D2198EEE58.url = skin/Image_B1DBF2C0_BF8A_CEB0_41C3_86D2198EEE58_fr.png
+Image_F41F7496_E79C_22CA_41E4_58DB98B258F0.url = skin/Image_F41F7496_E79C_22CA_41E4_58DB98B258F0_fr.png
+Image_FBF58542_E794_224B_41DA_B3EBAA0DE8D3.url = skin/Image_FBF58542_E794_224B_41DA_B3EBAA0DE8D3_fr.png
+
+### Menu déroulant
+DropDown_F261818B_E7BC_62DA_41D5_411F527C416D.prompt = Pièces
+DropDown_FD5C7DB3_E794_E2C9_41D4_74AF394D4C63.prompt = Pièces
+
+### Texte multiligne
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>Groupement de gendarmerie de la Mayenne</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>61 allée des Français Libres</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>53000, Laval</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>02.43.59.57.10</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>Groupement de gendarmerie de la Mayenne</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>61 allée des Français Libres</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>53000, Laval</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>02.43.59.57.10</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Média
+
+### Image
+imlevel_08DA01CA_070F_91CC_4183_DFE8A126B136.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_0.jpg
+imlevel_08DB01CA_070F_91CC_418C_64D1BF3F0DAC.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_1.jpg
+imlevel_08DB71CA_070F_91CC_416B_E841CA829299.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_2.jpg
+imlevel_08DB61CA_070F_91CC_4193_5E9CFA8DEEC3.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_3.jpg
+imlevel_77CEA36E_6E0B_1D4E_41D6_364A8E02F883.url = media/popup_264EE358_35BC_C062_41C6_49073CFABDE1_fr_0_0.png
+imlevel_77CE836F_6E0B_1D4E_41D5_BF39CB31B1EF.url = media/popup_264EE358_35BC_C062_41C6_49073CFABDE1_fr_0_1.png
+imlevel_77CEF36F_6E0B_1D4E_4187_A83925AD75AE.url = media/popup_264EE358_35BC_C062_41C6_49073CFABDE1_fr_0_2.png
+imlevel_77CEE36F_6E0B_1D4E_41D0_C0792A6B1489.url = media/popup_264EE358_35BC_C062_41C6_49073CFABDE1_fr_0_3.png
+imlevel_77CED370_6E0B_1D52_41A0_E545C5E0D636.url = media/popup_264EE358_35BC_C062_41C6_49073CFABDE1_fr_0_4.png
+imlevel_4F870D6F_6E0D_054E_41AC_3B05DF321140.url = media/popup_70DBAD6B_6E07_0576_41B1_A32483AEE989_fr_0_0.png
+imlevel_4F828D6F_6E0D_054E_41CF_B11F17F944D1.url = media/popup_70DBAD6B_6E07_0576_41B1_A32483AEE989_fr_0_1.png
+imlevel_4F829D6F_6E0D_054E_41D2_3D7576CD3867.url = media/popup_70DBAD6B_6E07_0576_41B1_A32483AEE989_fr_0_2.png
+imlevel_4F9CC584_6E0D_05B2_41BA_EF7B46D7F45A.url = media/popup_70DE5A7C_6E07_0F52_41C3_26536C0A1B22_fr_0_0.png
+imlevel_4F987585_6E0D_05B2_41C9_C290FAE41FE2.url = media/popup_70DE5A7C_6E07_0F52_41C3_26536C0A1B22_fr_0_1.png
+imlevel_4F984585_6E0D_05B2_41A5_EE64E16B362B.url = media/popup_70DE5A7C_6E07_0F52_41C3_26536C0A1B22_fr_0_2.png
+imlevel_7DDEEE58_6E1A_D127_41D2_C5887249FBED.url = media/popup_7D70C09D_6E0F_5159_41CB_345CBB5E83CA_fr_0_0.png
+imlevel_7DDF1E58_6E1A_D127_41D2_FAB91C85B5F0.url = media/popup_7D70C09D_6E0F_5159_41CB_345CBB5E83CA_fr_0_1.png
+imlevel_7DDF3E59_6E1A_D1D9_41C5_1E0827DF5432.url = media/popup_7D70C09D_6E0F_5159_41CB_345CBB5E83CA_fr_0_2.png
+imlevel_7DF888D6_6E1A_F12B_41BC_121EF6ECBF45.url = media/popup_7E5F9ADF_6E0D_76D9_41CC_D281BD608EE1_fr_0_0.png
+imlevel_7DF8C8D6_6E1A_F12B_41D2_FA7E1BD2709D.url = media/popup_7E5F9ADF_6E0D_76D9_41CC_D281BD608EE1_fr_0_1.png
+imlevel_7DF938D6_6E1A_F12B_41DA_24BBCAD56786.url = media/popup_7E5F9ADF_6E0D_76D9_41CC_D281BD608EE1_fr_0_2.png
+imlevel_4E6E10D6_6E0D_3B5F_41D9_798ACAC11B7B.url = media/popup_7F597FAC_6E0D_2F7F_41B3_EB1294A7041C_fr_0_0.png
+imlevel_4E6DE0D6_6E0D_3B5F_41BE_B8635C466223.url = media/popup_7F597FAC_6E0D_2F7F_41B3_EB1294A7041C_fr_0_1.png
+imlevel_4E6DF0D6_6E0D_3B5F_41CD_FD5734A74F04.url = media/popup_7F597FAC_6E0D_2F7F_41B3_EB1294A7041C_fr_0_2.png
+imlevel_C6043ED5_E795_DE49_41E7_04707119EE3A.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_0.jpg
+imlevel_C605DED5_E795_DE49_41E0_BE76D287A228.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_1.jpg
+imlevel_C605FED5_E795_DE49_41E1_706AFD461CF4.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_2.jpg
+imlevel_C605EED5_E795_DE49_4113_66B98A8935B8.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_3.jpg
+
+### Popup Image
+
+### Titre
+panorama_B4924F3C_BF76_6DB7_41E7_3073C2DB3EDA.label = Accueil Cellule Identification Criminelle
+album_16AB1B09_0667_5B41_4166_57A8506CDACD.label = Album Photo IMG_2098
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F.label = Album Photo Ordi gestio. caméra
+album_AB475009_BF6A_D35E_41DF_C0626CEDC7AC.label = Album Photo unnamed-2
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF.label = Album Photo unnamed-3
+panorama_70515F2F_6E05_06CE_41D4_3E396B327E96.label = Brigade Territoriale Laval
+panorama_3A0FB41B_35AC_47E5_41C0_DF0C2242C25B.label = Centre de Soutien Automobile de Laval
+album_16AB1B09_0667_5B41_4166_57A8506CDACD_1.label = IMG_2097
+album_16AB1B09_0667_5B41_4166_57A8506CDACD_0.label = IMG_2098
+panorama_B494AC20_BF76_534F_41B3_59D45D366D57.label = Laboratoire CIC
+panorama_B495B972_BF76_35B3_41DC_637C4977BE89.label = Maison de Protection des Familles
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F_0.label = Ordi gestio. caméra
+panorama_7097A5CA_6E07_05B6_41B2_EA56AFEA32AE.label = Panneaux BTA
+panorama_63E687FD_6E06_DED9_41D0_A65B1E408241.label = Peloton de Surveillance et d'Intervention de Laval
+panorama_3A3ED2A3_35AC_4025_419C_4728BBC4A4EA.label = Portillon
+panorama_E91FAF67_E78C_3E4A_41CC_11010F6CEA49.label = SAS 1
+panorama_E82CC765_E78C_6E4E_41DF_5E4A1AC8C4EE.label = SAS 2
+panorama_178AF9C6_0622_1337_40FF_E38BF16CB800.label = Vestiaire PSIG
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F_1.label = Visu salle derière miroir sans tain
+model_FAF9037A_E794_263A_41E6_EE40F31EE048.label = casque psig
+album_AB475009_BF6A_D35E_41DF_C0626CEDC7AC_0.label = unnamed-2
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF_0.label = unnamed-3
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF_1.label = unnamed-4
+photo_FFCF9839_E78C_61C6_41E2_AAF059DD91AD.label = unnamed-4
+
+## Popup
+
+### Corps
+htmlText_ACA8CEDB_BF8A_5657_41E5_8EF12E2DEAB8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Cet outil précieux est utilisé par les enfants pour exprimer ce qu'ils ont du mal à dire avec des mots. Grâce à leurs dessins, ils peuvent partager leurs expériences, leurs émotions et leurs peurs de manière tangible.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Ce tableau n'est pas seulement un moyen d'expression pour les enfants, il est également un outil essentiel pour les gendarmes de la MPF. Placé face à la caméra, il permet aux gendarmes de voir visuellement ce que les enfants ressentent et pensent. Les dessins offrent ainsi aux gendarmes des informations cruciales sur la situation de l'enfant et sur les éventuelles violences qu'il aurait subies. Cela aide les gendarmes à mieux comprendre la situation et à prendre les mesures nécessaires pour protéger l'enfant.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_ADC9F651_BF8A_5650_41E4_4190A5C26F43.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Dans la salle Mélanie, une caméra essentielle remplie une fonction cruciale : enregistrer les auditions des victimes de violences conjugales. Positionnée stratégiquement, cette caméra capture chaque mot et gestes lors des entretiens, garantissant ainsi une documentation précise et authentique des témoignages.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Ces enregistrements sont ensuite sauvegardés sur des DVD placés sous scellé, à l'abri de toute altération ou manipulation. Ces DVD constituent une pièce essentielle dans le processus judiciaire, prêts à être utilisés en cas de besoin par les magistrats, avocats ou autres intervenants judiciaires.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Cette pratique méticuleuse permet de garantir l'intégrité et la fiabilité des éléments recueillis lors des auditions, assurant ainsi une justice équitable pour les victimes de violences conjugales.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_AE6BF81A_BF96_39D0_41BB_BDC1979085A2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Le miroir sans tain ne se limite pas à permettre à un gendarme de surveiller l'audition en cours sans perturber son déroulement. En effet, la personne qui se trouve derrière le miroir joue un rôle actif dans le processus d'audition.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">En plus de surveiller attentivement la situation, cette personne prend également des notes détaillées sur ce qui est dit pendant l'audition. Ces notes sont précieuses pour documenter les déclarations des témoins ou des victimes, ainsi que pour enregistrer les faits pertinents qui peuvent être utilisés dans le cadre de l'enquête ou des procédures judiciaires ultérieures.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_161C048A_0661_4D40_4185_B6C337A43BC0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Les emblèmes du PSIG de Laval arborent un aigle, symbolisant un oiseau de nuit qui veille et protège la Mayenne.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">L'emblème intègre également l'écusson de la Mayenne.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Le fond bleu et noir représente le PSIG, tandis que les griffes de l'aigle saisissent le groupement, illustrant la vigilance et la protections.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_70B298AC_6E3B_0BF2_41A9_4F242C4DB305.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">L'étage n'est pas encore aménagé, patience :)</SPAN></DIV></BODY></HTML></div>
+htmlText_23E6B2B9_35B4_4022_41B1_038D711E3CCB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">[ATTENTION] Vous entrez dans une visite virtuelle du groupement de gendarmerie de la Mayenne, or, par sécurité, certaines des pièces de cette visite ne sont pas similaire à la réalité.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Bonne visite !</SPAN></DIV></BODY></HTML></div>
+
+### Titre
+window_ADC92651_BF8A_5650_41C7_1B384110C6AB.title = Caméra
+window_161C448A_0661_4D40_416A_6BFFC409C572.title = Emblème
+window_AE69D81A_BF96_39D0_41E0_07FFBF6B6644.title = Miroir sans tain
+window_ACAACEDB_BF8A_5657_41D3_062663F6312B.title = Tableau blanc
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Visite virtuelle GGD53
